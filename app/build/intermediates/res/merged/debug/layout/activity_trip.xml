@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <!--1. 顶部标题栏-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/border_black"
+        >
+
+
+        <ImageView
+            android:id="@+id/homepage_title_imv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            app:srcCompat="@drawable/tik_03" />
+
+        <TextView
+            android:id="@+id/homepage_title_text_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="undicided"
+            android:textColor="@color/colorBlack"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:id="@+id/homepage_title_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            app:srcCompat="@drawable/my4_03" />
+
+    </RelativeLayout>
+    <ListView
+        android:id="@+id/list_days"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</LinearLayout>

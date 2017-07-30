@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_tab_1"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="48dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:scaleType="centerCrop"
+        android:paddingBottom="20dp"
+        android:src="@drawable/ic_login" />
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#FFF">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/inputBox_account"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Account"
+            android:inputType="textEmailAddress"
+            android:textColor="#FFF" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:textColorHint="#FFF">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/inputBox_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textColor="#FFF" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnSignin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@null"
+        android:text="Signin"
+        android:textColor="@color/color_tab_2"
+        android:textSize="30sp" />
+</LinearLayout>

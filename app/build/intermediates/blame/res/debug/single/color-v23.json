@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/color-v23/abc_tint_default.xml"
+    }
+]

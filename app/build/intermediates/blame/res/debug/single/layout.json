@@ -1,0 +1,1202 @@
+[
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_conversation_member.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_conversation_member.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/mycomment_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/mycomment_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_extension_bar.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_extension_bar.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_search_answer.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_search_answer.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_recommend.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_recommend.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tab_all_groups.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/tab_all_groups.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_notify.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_notify.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_activity.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_activity.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item_card_big.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item_card_big.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rounded_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/rounded_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_myfriendlist.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_myfriendlist.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/header_logo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/header_logo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_tiket_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_tiket_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_way_guide.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_way_guide.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_alert_human_evaluation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_alert_human_evaluation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_placeholder.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_placeholder.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item_header_footer.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item_header_footer.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_evaluate.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_evaluate.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_theresult.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_theresult.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_location.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_location.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_file_preview_content.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_file_preview_content.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/my_tabs.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/my_tabs.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_string_euclid.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_string_euclid.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_albums.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_albums.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_text_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_text_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_conversation_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_conversation_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_raider.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_raider.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_create_group.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_create_group.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/bottom_navigation_small_item.xml",
+        "source": "/Users/outlier/.android/build-cache/e8038f0db31bbc6722830097fe085b4669522336/output/res/layout/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_sub_conversation_list_activtiy.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_sub_conversation_list_activtiy.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_topic.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_topic.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_catalog_listview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_catalog_listview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_alert_warning.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_alert_warning.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_replacemypersoninfo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_replacemypersoninfo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/cbk_dialog_pick_time.xml",
+        "source": "/Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/res/layout/cbk_dialog_pick_time.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/bga_banner_item_image.xml",
+        "source": "/Users/outlier/.android/build-cache/249b31de97d080dfb4541f61f798abe3c5f922e8/output/res/layout/bga_banner_item_image.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item_sample.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item_sample.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_preview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_preview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_moving_header.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_moving_header.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_basemap.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_basemap.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_sub_menu_container.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_sub_menu_container.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_plugin_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_plugin_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/comment_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/comment_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_voice_input.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_voice_input.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/groupitem_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/groupitem_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_camera.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_camera.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/demo_info_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/demo_info_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/content_input_community.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/content_input_community.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/title_layout.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/layout_signin.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/layout_signin.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_voice_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_voice_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/item_select_city.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/item_select_city.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fragment_base_setting.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fragment_base_setting.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/content.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/content.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/trip_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/trip_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/useritem_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/useritem_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fragment_recyclerview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fragment_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_4_personinfo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_4_personinfo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/gridview_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/gridview_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rounded_item_select.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/rounded_item_select.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/view_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/view_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_item_single_choice.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_item_single_choice.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/actionbar.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/actionbar.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_original.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_original.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_emoticon_tab_container.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_emoticon_tab_container.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_view_detail.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_view_detail.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/detail.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/detail.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_dialog_alter.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_dialog_alter.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_file_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_file_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_mainchat.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_mainchat.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/edit_item1.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/edit_item1.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_input_pager_layout.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_input_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/childs.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/childs.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_mystrategy.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_mystrategy.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_emoji_grid_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_emoji_grid_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_personlogin.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_personlogin.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_alert_robot_evaluation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_alert_robot_evaluation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_2.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_2.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_search_comment.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_search_comment.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_location_real_time_activity.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_location_real_time_activity.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_hotel.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_hotel.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_notification_realtime_location.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_notification_realtime_location.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_discussion_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_discussion_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_community.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_community.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_mycollection.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_mycollection.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_wi_file_list_adapter.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_wi_file_list_adapter.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_emoji_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_emoji_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/cbk_wheel_default_inner_text.xml",
+        "source": "/Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/res/layout/cbk_wheel_default_inner_text.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/profile_info.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/profile_info.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_guide.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_guide.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_refresh_list_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_refresh_list_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_discussion_notification_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_discussion_notification_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_group_information_notification_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_group_information_notification_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tools_material_view_pager_pagertitlestrip.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/tools_material_view_pager_pagertitlestrip.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_input_menus.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_input_menus.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_messagelist.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_messagelist.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tools_list_items.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/tools_list_items.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/strategy_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/strategy_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",
+        "source": "/Users/outlier/.android/build-cache/e8038f0db31bbc6722830097fe085b4669522336/output/res/layout/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_hotel_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_hotel_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_personal_login.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_personal_login.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tab_all_contact.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/tab_all_contact.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_file_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_file_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_view_answer.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_view_answer.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/layout_item_demo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/layout_item_demo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_public_service_sub_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_public_service_sub_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_base_activity_layout.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_base_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_dialog_popup_prompt.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_dialog_popup_prompt.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_conversationlist.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_conversationlist.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_base_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_base_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_date_time_picker.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_date_time_picker.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_mycomment.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_mycomment.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picprev_activity.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picprev_activity.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_wi_block.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_wi_block.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_add_friend.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_add_friend.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_pic_popup_window.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_pic_popup_window.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_wi_block_popup.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_wi_block_popup.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_input_menu.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_rich_content_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_transit_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_transit_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_1.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_1.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_app_service_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_home_activty.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_home_activty.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/drawer.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/drawer.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_file_download.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_file_download.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_share_location_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_share_location_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/sight_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/sight_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_mention_members.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_mention_members.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_file_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_file_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_root_menu_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_root_menu_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_sgv.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_sgv.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/gridview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/gridview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/photo_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/photo_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tools_list_item_card_big.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/tools_list_item_card_big.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/view_cycle_viewpager_contet.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/view_cycle_viewpager_contet.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_search_detail.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_search_detail.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/overlay_list_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/overlay_list_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_file_manager.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_file_manager.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_poisearch.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_poisearch.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_plugin_pager.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_plugin_pager.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_dialog_popup_options.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_dialog_popup_options.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_viewpager.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_viewpager.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/food_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/food_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_mention_list_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_mention_list_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_image.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_image.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_emoji_pager.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_emoji_pager.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_dialog_popup_prompt_warning.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_dialog_popup_prompt_warning.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_input_edit_text.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_input_edit_text.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_group_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_trip.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_trip.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_myphoto.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_myphoto.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/view_title.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/view_title.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_camera.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_camera.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/item_search_history_word.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/item_search_history_word.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/view_banner.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/view_banner.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_system_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_system_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item_card_small.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item_card_small.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/psts_tab.xml",
+        "source": "/Users/outlier/.android/build-cache/40b815e2676a13db841ff58ef9998975c7901c14/output/res/layout/psts_tab.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_location_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_location_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_conversation_notification_container.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_conversation_notification_container.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_takephoto.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_takephoto.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_input_community.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_input_community.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_wi_vo_popup.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_wi_vo_popup.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_rich_content_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/other_strategy_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/other_strategy_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_indicator.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_indicator.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_picture_pager.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_picture_pager.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_preview_fragment.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_preview_fragment.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_grid_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_grid_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_emoticon_tab_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_emoticon_tab_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/simple_dropdown_item_1line.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/simple_dropdown_item_1line.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/catloading_main.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/catloading_main.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_input_menu_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_input_menu_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/cbk_wheel_picker.xml",
+        "source": "/Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/res/layout/cbk_wheel_picker.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_menu_container.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_menu_container.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_view_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_view_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_public_service_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_icon_rt_location_marker.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_icon_rt_location_marker.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/popwindow_delete.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/popwindow_delete.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_pagertitlestrip_newstand.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_pagertitlestrip_newstand.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_search.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_search.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_conversation.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_conversation.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_dialog_popup_options_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_dialog_popup_options_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/view_cycle_viewpager_indicator.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/view_cycle_viewpager_indicator.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/hotel_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/hotel_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_leave_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_leave_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_progress.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_progress.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_4_title.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_4_title.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_plugin_grid_view.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_plugin_grid_view.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_3.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_3.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tools_list_item_card_small.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/tools_list_item_card_small.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_imageview_header.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_imageview_header.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/edit_imageview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/edit_imageview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_image_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_image_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/trip_detail.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/trip_detail.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_cs_single_choice_layout.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_cs_single_choice_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_guide_welcome.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_guide_welcome.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_public_service_inf.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_public_service_inf.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_information_notification_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_information_notification_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_location_preview_activity.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_location_preview_activity.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/material_view_pager_pagertitlestrip_standard.xml",
+        "source": "/Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/res/layout/material_view_pager_pagertitlestrip_standard.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_myfriendinfo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_myfriendinfo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_euclid.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_euclid.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/trip_content_layout.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/trip_content_layout.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ac_webview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ac_webview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_picsel_grid_camera.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_picsel_grid_camera.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_tiket.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_tiket.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/settingitem.xml",
+        "source": "/Users/outlier/.android/build-cache/73ba250425b73791d960d9121efbb2754c3b9313/output/res/layout/settingitem.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/common_datetime.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/common_datetime.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/headview.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/headview.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_multi_rich_content_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_multi_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/friend_fragment.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/friend_fragment.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_public_service_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_public_service_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_plugin_location_activity.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_plugin_location_activity.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_add_trip.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_add_trip.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_conversation_member_list.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_conversation_member_list.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/layout_signup.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/layout_signup.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_mychatwithfriend.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_mychatwithfriend.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_text_message_evaluate.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_text_message_evaluate.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fragment_scroll.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fragment_scroll.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/button_round_msg.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/button_round_msg.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rounded_background_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/rounded_background_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_ext_sub_menu_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_ext_sub_menu_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_item_message.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_item_message.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/homepage_title.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/homepage_title.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/tiket_item.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/tiket_item.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/list_item_header_footer2.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/list_item_header_footer2.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/fg_4.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/fg_4.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_wi_notice.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_wi_notice.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/rc_fr_photo.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/layout/rc_fr_photo.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/layout/activity_transit_dialog.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/layout/activity_transit_dialog.xml"
+    }
+]

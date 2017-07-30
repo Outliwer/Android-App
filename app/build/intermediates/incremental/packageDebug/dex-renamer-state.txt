@@ -1,0 +1,7 @@
+#Wed Jul 26 19:03:11 CST 2017
+base.0=/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1b4e2aeb87b6c6edb7776295204b2c92bfa3b3f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ed02f0c3d9b3aed88ff6e6312533410c334c64c/classes.dex
+base.1=/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ed02f0c3d9b3aed88ff6e6312533410c334c64c
+file.0=/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1b4e2aeb87b6c6edb7776295204b2c92bfa3b3f/classes.dex

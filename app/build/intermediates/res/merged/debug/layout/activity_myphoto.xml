@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <include
+        android:id="@+id/title_item"
+        layout="@layout/fg_4_title"
+        />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/addPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_addphoto"
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_activity_active" />
+            <TextView
+                android:id="@+id/label_addPhoto"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text="添加照片"
+                android:gravity="center"
+                android:textSize="20dp"
+                />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/label_history_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="10dp"
+        android:text="▼历史照片"
+        android:textSize="18dp"
+        />
+    <TextView
+        android:id="@+id/label_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="长按以删除照片"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:textSize="10dp"/>
+
+    <ListView
+        android:id="@+id/list_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

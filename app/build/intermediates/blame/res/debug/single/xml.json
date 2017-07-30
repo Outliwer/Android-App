@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/xml/rc_file_path.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/res/xml/rc_file_path.xml"
+    }
+]

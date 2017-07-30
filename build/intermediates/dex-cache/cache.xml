@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_radar_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fc076f176eb31a019a30c9e335c4b2960abfbc2">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_radar_v4_3_1_732e97e385aef0ac7148e37d0c1b92a7b36260bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/libs/Rong_IMLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ea8c422d6034411bba4ad773f72d7e0431f873d">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/Rong_IMLib_ac38bb9395bc07d2cbf4bcc8cd568111ac4362ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_radar_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fc076f176eb31a019a30c9e335c4b2960abfbc2">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_radar_v4_3_1_732e97e385aef0ac7148e37d0c1b92a7b36260bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_base_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd351c75a2320b69d34b4e8f02c1b3bc029265ec">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_base_v4_3_1_59be77ac87394dcc968fb15bded1325716ce1f73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e614e3b2edc63a9cc423437dea087c91962254f5">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/gradle-wrapper_2673cc3eca75e08d3466689c115435b7cdb372ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_bfbb755b94395ed57c369598ff541b48b386fc12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d58f6d029f1af31adcddda9d397a6481d1c00e64">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/classes_685cb04ca9d255d8120f8d767e5541e46c4c9bce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_cloud_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d24c8d407f1506d4216d899ae8dc24e78ca00d03">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_cloud_v4_3_1_435e45aa7ccfc74bf891eaf960f0e22e45574404/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_base_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd351c75a2320b69d34b4e8f02c1b3bc029265ec">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_base_v4_3_1_59be77ac87394dcc968fb15bded1325716ce1f73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/libs/Rong_IMLib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ea8c422d6034411bba4ad773f72d7e0431f873d">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMLib_ac38bb9395bc07d2cbf4bcc8cd568111ac4362ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1b4e2aeb87b6c6edb7776295204b2c92bfa3b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_cloud_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d24c8d407f1506d4216d899ae8dc24e78ca00d03">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_cloud_v4_3_1_435e45aa7ccfc74bf891eaf960f0e22e45574404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/gradle-wrapper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e614e3b2edc63a9cc423437dea087c91962254f5">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/gradle-wrapper_2673cc3eca75e08d3466689c115435b7cdb372ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_map_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c28d81ba8665fd2f5176a218f4829e7457fb0276">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_map_v4_3_1_0977ac155bb26094f1a0e7271a9606ddcadf29bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_map_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c28d81ba8665fd2f5176a218f4829e7457fb0276">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_map_v4_3_1_0977ac155bb26094f1a0e7271a9606ddcadf29bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/eventbus-2.4.0_bfbb755b94395ed57c369598ff541b48b386fc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a6b8966e35a402eda0880b0b9b3668a2490e78f">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/classes_85d3fb28705ac39d0c9d66078e26cc4f788612f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_271d8023568a904909c972f4eaba477379c95fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/locSDK_6.13_271d8023568a904909c972f4eaba477379c95fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/.android/build-cache/d24f30191633dc21e22aee2b674a9d7a8c46a3c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fdb8d786e466855b9dc0ea2e155ea2d42be159e">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/classes_b3698624eee124d36a783c28bd53829a9fac8d13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_util_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f35f848bd2d9c4fadaa9410b4de1756c58cc7bfd">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_util_v4_3_1_bd6452925e12fbf6857a28335c1c0130db61132b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_util_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f35f848bd2d9c4fadaa9410b4de1756c58cc7bfd">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_util_v4_3_1_bd6452925e12fbf6857a28335c1c0130db61132b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/gson-2.2.1_f703ea5b89ae63ee7d8bd37ef4089ab75f2e7831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/.android/build-cache/3187feeaecc74690bc2fe77f2bac95ec64d239cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/classes_63d81d6334e4bffca77190c4099e33064ced2e78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/httpcore-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50d62373255daf8fa4f21ce381683ed64a3a95b8">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0_2ff18ed46ab10bf7e126ce7998d5e0f7d123fc0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c99bbbbf936c2d63f7d90a5f5af16132d27012dc">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ed02f0c3d9b3aed88ff6e6312533410c334c64c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_c4d750e83ab351823a3d299227c0f0e2096f0106/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/httpcore-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50d62373255daf8fa4f21ce381683ed64a3a95b8">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/httpcore-4.0_2ff18ed46ab10bf7e126ce7998d5e0f7d123fc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/volley_c4d750e83ab351823a3d299227c0f0e2096f0106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/libs/Rong_IMKit.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b910f0e7e66b555bab5fec2823b205f79b6795a">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/Rong_IMKit_5f99e219805683f7b2546bfc2e0d56f6415dea8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_search_v4_3_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e6645eba59f74b0fca84ce7d26f8bdc7160764e">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_search_v4_3_1_43a7a1d0a4cf8552215d1e79169d7ba851259f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/libs/Rong_IMKit.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b910f0e7e66b555bab5fec2823b205f79b6795a">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMKit_5f99e219805683f7b2546bfc2e0d56f6415dea8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/baidumapapi_search_v4_3_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e6645eba59f74b0fca84ce7d26f8bdc7160764e">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/baidumapapi_search_v4_3_1_43a7a1d0a4cf8552215d1e79169d7ba851259f43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baadab97e6e787f81c369eb27c4ca52a8b38290c">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/pinyin4j-2.5.0_32845c93d9da26e998753be7da682e8f0cc21e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/MiPush_SDK_Client_3_2_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c4db77df1c064b6ae16fbecb575c029971ab96">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/MiPush_SDK_Client_3_2_2_e5b8dc1fbb2514960679edbf99a09770837e36ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/gson-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.2.1_f703ea5b89ae63ee7d8bd37ef4089ab75f2e7831/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baadab97e6e787f81c369eb27c4ca52a8b38290c">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/pinyin4j-2.5.0_32845c93d9da26e998753be7da682e8f0cc21e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/MiPush_SDK_Client_3_2_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c4db77df1c064b6ae16fbecb575c029971ab96">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/MiPush_SDK_Client_3_2_2_e5b8dc1fbb2514960679edbf99a09770837e36ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c34d099565a5f56116ad7be7111ad7184d600b91">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/classes_a1be7234e22118abbb2aba6a4bf2a3ca70ec30f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/httpclient-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9003011c1b6d28a7331f04251a25e7ccf63c98f8">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.1.2_1bf96c5617de94a2bf4c2413d5f0a8a82ce8b057/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/libs/httpclient-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9003011c1b6d28a7331f04251a25e7ccf63c98f8">
+        <dex dex="/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/pre-dexed/debug/httpclient-4.1.2_1bf96c5617de94a2bf4c2413d5f0a8a82ce8b057.jar" />
+    </item>
+
+</items>

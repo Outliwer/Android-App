@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_color">#FF4081</color>
+    <color name="whitesmoke">#FF4081</color>
+    <color name="white_grey">#f0f0f0</color>
+    <color name="new_blue_normal">#64beff</color>
+    <color name="dark_grey">#999999</color>
+    <color name="bright_grey">#dedede</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlack">#232323</color>
+    <color name="colorGray">#FFCECFD4</color>
+    <color name="colorRed">#ff4b4b</color>
+    <color name="gray">#21252a</color>
+    <color name="orange">#ff8c6a</color>
+    <color name="black">#000000</color>
+    <color name="blue">#ff14445a</color>
+    <color name="guillotine_background_dark">#383547</color>
+    <color name="guillotine_background">#444153</color>
+    <color name="selected_item_color">#30d1d5</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+
+    <color name="color_tab_1">#455C65</color>
+    <color name="color_tab_2">#ff8c6a</color>
+    <color name="color_tab_3">#383547</color>
+    <color name="color_tab_4">#444153</color>
+    <color name="colorPrimaryTrans">#a0673AB7</color>
+    <color name="colorBlackTrans">#a0000000</color>
+    <color name="colorAccentTrans">#a0009688</color>
+</resources>

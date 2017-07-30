@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.outlier.prictace_1.AboutMe.PersonalLoginActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_people" />
+
+    <android.support.percent.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBlackTrans"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/llSignin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="@color/colorBlackTrans"
+            android:orientation="horizontal"
+            app:layout_widthPercent="85%">
+
+            <com.example.outlier.prictace_1.AboutMe.AllClass.VerticalTextView
+                android:id="@+id/tvSigninInvoker"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingTop="15dp"
+                android:text="Signin"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:visibility="gone"/>
+
+            <include
+                android:id="@+id/llSigninContent"
+                layout="@layout/layout_signin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+            </include>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llSignup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@color/colorAccentTrans"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            app:layout_widthPercent="15%">
+
+            <com.example.outlier.prictace_1.AboutMe.AllClass.VerticalTextView
+                android:id="@+id/tvSignupInvoker"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:rotation="180"
+                android:paddingTop="15dp"
+                android:text="Signup"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:visibility="visible" />
+
+            <include
+                android:id="@+id/llSignupContent"
+                layout="@layout/layout_signup"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"></include>
+        </LinearLayout>
+    </android.support.percent.PercentRelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+</RelativeLayout>

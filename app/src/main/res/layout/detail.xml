@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:paddingLeft="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/btn_inMap"
+            android:layout_width="161.4dp"
+            android:layout_height="112.5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/imagebutton_1"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/des"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:text="--this des"
+            android:textSize="15dp"
+            />
+
+    </LinearLayout>
+</LinearLayout>

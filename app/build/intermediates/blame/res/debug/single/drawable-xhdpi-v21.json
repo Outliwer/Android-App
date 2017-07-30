@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v21/ic_linkedin.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/generated/res/pngs/debug/drawable-xhdpi-v21/ic_linkedin.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v21/ic_login.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/generated/res/pngs/debug/drawable-xhdpi-v21/ic_login.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v21/ic_user.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/generated/res/pngs/debug/drawable-xhdpi-v21/ic_user.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v21/ic_twitter.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/generated/res/pngs/debug/drawable-xhdpi-v21/ic_twitter.xml"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v21/ic_facebook.xml",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/generated/res/pngs/debug/drawable-xhdpi-v21/ic_facebook.xml"
+    }
+]

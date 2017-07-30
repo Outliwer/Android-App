@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_tab_1">
+
+    <include
+        android:id="@+id/title_item"
+        layout="@layout/fg_4_title"
+        />
+
+    <ImageView
+        android:id="@+id/head_icon"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/girl"
+         />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_height="50dp"
+        >
+        <TextView
+            android:id="@+id/label_takephoto"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="拍摄照片"
+            android:textSize="25dp"
+            android:textColor="@color/colorRed"/>
+        <TextView
+            android:id="@+id/label_uploadphoto"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="上传照片"
+            android:textSize="25dp"
+            android:textColor="@color/colorRed"/>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_useheadicon"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/hotelbutton_03"
+        android:textSize="30dp" />
+
+
+</LinearLayout>

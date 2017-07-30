@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/layout"
+    android:background="@drawable/border">
+    <TextView
+        android:id="@+id/label_commentdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:text="--this date"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:id="@+id/label_commentposition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:text="--this position"
+        android:textSize="15dp"
+        />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:paddingLeft="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/btn_inMap"
+            android:layout_width="161.4dp"
+            android:layout_height="112.5dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/imagebutton_1"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/btn_inTopic_2"
+            android:layout_width="161.4dp"
+            android:layout_height="112.5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/imagebutton_2"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

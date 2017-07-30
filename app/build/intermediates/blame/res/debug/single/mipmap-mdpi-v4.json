@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/notification.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/notification.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_add.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/setting.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/setting.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/about.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/about.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_notify.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/ic_notify.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/chat.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/chat.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_setting.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/contact.png",
+        "source": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/mipmap-mdpi/contact.png"
+    }
+]

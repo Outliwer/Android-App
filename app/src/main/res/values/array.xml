@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>无要求</item>>
+        <item>一星级</item>
+        <item>二星级</item>
+        <item>三星级</item>
+        <item>四星级</item>
+        <item>五星级</item>
+        <item>六星级</item>
+        <item>七星级</item>
+    </string-array>
+
+    <string-array name="array_names_history">
+        <item>"希腊雅典三日行"</item>
+        <item>"西班牙经典游"</item>
+        <item>"日本行程"</item>
+        <item>"8月阿联酋旅行"</item>
+        <item>"泰国行程"</item>
+        <item>"巴厘岛，龙目岛行程"</item>
+        <item>"林夕祠的行程"</item>
+    </string-array>
+
+    <string-array name="intro_history">
+        <item>"--2016/9/26
+                广州到雅典
+
+            --2016/9/27
+                雅典
+                哈德良图书馆
+                雅典古市集博物馆
+                雅典娜胜利神庙
+
+            --2016/9/28
+                雅典到广州"
+        </item>
+        <item>"--2016/8/11
+                    出发： 北京 到达： 马德里
+                    距离：9222KM
+
+            --2016/8/12
+                马德里，格兰大道
+
+            --2016/8/13
+                马德里太阳门广场
+                马德里普拉博物馆"
+        </item>
+        <item>"--2015/3/2
+                    出发： 北京 （北京首都国际机场T3） 08:25
+                    到达： 东京 （东京羽田国际机场TI） 12:50
+
+            --2015/3/3
+                十和田市，十和田湖
+
+            --2015/3/4
+                观光物产馆Asupamu   青森県観光物産館アスパム"
+        </item>
+        <item>"--2014/8/11
+                    广州 Guangzhou 到 迪拜 Dubai
+
+            --2014/8/12
+                朱美拉公共海滩 Jumeira Public Beach
+
+            --2014/8/13
+                朱美拉清真寺 Jumeirah Mosque"
+        </item>
+        <item>"--2014/3/2
+                    上海 Shanghai 到 曼谷 Bangkok
+
+            --2014/3/3
+                泰国素万那普机场 Suvarnabhumi Airport
+
+            --2014/3/4
+                曼谷 Bangkok 到 甲米 Krabi
+
+            --2014/3/5
+                奥南菲奥雷度假村 Aonang Fiore Resort"
+        </item>
+        <item>"--2014/1/7
+                北京 Beijing 到 巴厘岛 Bali
+
+            --2014/1/8
+                娜迪利特民宿
+
+            --2014/1/9
+                巴厘岛库塔海滩"
+        </item>
+        <item>"--2013/9/8
+                成都 Chengdu到香港 Hong Kong
+
+            --2013/9/9
+                太平山，尖沙咀
+
+            --2014/9/10
+                新太阳广场"
+        </item>
+
+    </string-array>
+
+    <string-array name="spingarr1">
+        <item>价格由低到高</item>
+        <item>价格由高到低</item>
+        <item>入住量由多到少</item>
+        <item>推荐度</item>
+    </string-array>
+
+    <string-array name="array_names">
+        <item>"Anastasia Druzhinina"</item>
+        <item>"Andriy Hristyan"</item>
+        <item>"Dmitriy Dovbnya"</item>
+        <item>"Dmitry Denisenko"</item>
+        <item>"Eduard Baev"</item>
+        <item>"Iliya Bershadskiy"</item>
+        <item>"Kirill Penzykov"</item>
+        <item>"Konstantin Rudenko"</item>
+        <item>"Oleksii Shliama"</item>
+        <item>"Pavel Apisov"</item>
+        <item>"Vadim Ooleynik"</item>
+    </string-array>
+</resources>

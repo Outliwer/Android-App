@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:leon="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" >
+
+
+    <!--1. 顶部标题栏-->
+    <include
+        android:id="@+id/show_homepage_title"
+        layout="@layout/homepage_title" />
+
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_tab_1"
+        android:orientation="vertical" >
+
+        <fragment
+            android:id="@+id/fragment_cycle_viewpager_content"
+            android:name="com.example.outlier.prictace_1.HomePage.Search.CycleView.CycleViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="180dip" />
+
+        <TextView
+            android:id="@+id/textView_value"
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:layout_marginEnd="15dp"
+            android:textColor="@color/colorBlack"
+            android:text="TextView"
+            android:textSize="26dp" />
+
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:isShowRightText="true"
+            android:background="@color/color_tab_2"
+            leon:leftIcon="@drawable/zhnaghu"
+            leon:leftText="简介"
+            leon:rightText=""
+            leon:rightTextColor="@color/gray"
+            leon:rightTextSize="14sp"/>
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            android:textColor="@color/color_tab_2"
+            android:text="TextView"
+            android:textSize="20dp" />
+
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:isShowRightText="true"
+            leon:leftIcon="@drawable/zhnaghu"
+            leon:leftText="地址"
+            leon:rightText=""
+            leon:rightTextColor="@color/gray"
+            leon:rightTextSize="14dp"/>
+
+        <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginEnd="15dp"
+        android:text="TextView" />
+
+        <com.leon.lib.settingview.LSettingItem
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            leon:isShowRightText="true"
+            leon:leftIcon="@drawable/zhnaghu"
+            leon:leftText="开发时间"
+            leon:rightText=""
+            leon:rightTextColor="@color/gray"
+            leon:rightTextSize="14dp"/>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginEnd="15dp"
+        android:text="TextView" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="26dp"
+            android:textColor="@color/colorBlack"
+            android:text="门票价格：" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginEnd="15dp"
+        android:text="TextView" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="26dp"
+            android:textColor="@color/colorBlack"
+            android:text="注意事项：" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginEnd="15dp"
+        android:text="TextView" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="26dp"
+            android:textColor="@color/colorBlack"
+            android:text="详细信息：" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginEnd="15dp"
+        android:text="TextView" />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="15dp"
+            android:paddingLeft="120dp"
+            android:paddingRight="120dp"
+
+            android:orientation="vertical" >
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            android:text="开始导航" />
+
+            </LinearLayout>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="15dp"
+            android:paddingLeft="120dp"
+            android:paddingRight="120dp"
+
+            android:orientation="vertical" >
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:text="地图查询" />
+
+        </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

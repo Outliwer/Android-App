@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/goto_1"
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        >
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/newtrip"
+            android:padding="10dip"
+            android:scaleType="center"
+            app:riv_border_color="@color/colorBlack"
+            app:riv_border_width="3dip"
+            app:riv_corner_radius="30dip"
+            app:riv_oval="false"
+            app:srcCompat="@drawable/newtrip" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_alignLeft="@+id/imageView1"
+            android:layout_alignStart="@+id/imageView1"
+            android:layout_marginBottom="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginStart="36dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="Mono Lake"
+            android:textAppearance="?android:attr/textAppearanceSmallInverse" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView3"
+            android:layout_alignLeft="@+id/textView3"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="CA"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView2"
+            android:layout_alignLeft="@+id/textView2"
+            android:layout_alignStart="@+id/textView2"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="新的征程"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse" />
+
+</RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:layout_marginTop="20dp"
+        android:id="@+id/goto_2"
+
+        >
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/ontrip"
+            android:padding="10dip"
+            android:scaleType="center"
+            app:riv_border_color="@color/colorBlack"
+            app:riv_border_width="3dip"
+            app:riv_corner_radius="30dip"
+            app:riv_oval="false"
+            app:srcCompat="@drawable/newtrip" />
+
+        <TextView
+            android:id="@+id/textView3_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView2"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2"
+            android:layout_marginBottom="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginStart="36dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="Death Valley"
+            android:textAppearance="?android:attr/textAppearanceSmallInverse" />
+
+        <TextView
+            android:id="@+id/textView2_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView3_1"
+            android:layout_alignLeft="@+id/textView3_1"
+            android:layout_alignStart="@+id/textView3_1"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="CA"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+        <TextView
+            android:id="@+id/textView1_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView2_1"
+            android:layout_alignLeft="@+id/textView2_1"
+            android:layout_alignStart="@+id/textView2_1"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="在路上"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:layout_marginTop="20dp"
+        android:id="@+id/goto_3"
+
+        >
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/oldtrip"
+            android:padding="10dip"
+            android:scaleType="center"
+            app:riv_border_color="@color/colorBlack"
+            app:riv_border_width="3dip"
+            app:riv_corner_radius="30dip"
+            app:riv_oval="false"
+            app:srcCompat="@drawable/newtrip" />
+
+        <TextView
+            android:id="@+id/textView3_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView3"
+            android:layout_alignLeft="@+id/imageView3"
+            android:layout_alignStart="@+id/imageView3"
+            android:layout_marginBottom="36dp"
+            android:layout_marginLeft="36dp"
+            android:layout_marginStart="36dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="Lake Powell"
+            android:textAppearance="?android:attr/textAppearanceSmallInverse" />
+
+        <TextView
+            android:id="@+id/textView2_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView3_2"
+            android:layout_alignLeft="@+id/textView3_2"
+            android:layout_alignStart="@+id/textView3_2"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="AZ"
+            android:textAppearance="?android:attr/textAppearanceMediumInverse" />
+
+        <TextView
+            android:id="@+id/textView1_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView2_2"
+            android:layout_alignLeft="@+id/textView2_2"
+            android:layout_alignStart="@+id/textView2_2"
+            android:layout_marginBottom="4dp"
+            android:background="#7f000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="过眼烟云"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse" />
+
+    </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <include
+        android:id="@+id/title_item"
+        layout="@layout/fg_4_title"
+        />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_height="120dp"
+        android:background="@drawable/border"
+        >
+        <TextView
+            android:id="@+id/label_uploadpicture_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="上传图片"
+            android:textSize="22dp"
+            android:textColor="@color/colorRed"/>
+        <ImageView
+            android:id="@+id/head_icon"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="30dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/ic_launcher"
+            />
+    </RelativeLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/border"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/label_setaccount"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+
+            android:text="请设置您的账号:   "
+            android:textSize="22dp"
+            android:textColor="@color/colorBlack"/>
+        <EditText
+            android:id="@+id/inputBox_account"
+            android:background="@drawable/border"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:maxLines="1"/>
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/border"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/label_setpassword"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+
+            android:text="请设置您的密码:   "
+            android:textSize="22dp"
+            android:textColor="@color/colorBlack"/>
+        <EditText
+            android:id="@+id/inputBox_password"
+            android:background="@drawable/border"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:maxLines="1"/>
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/border"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/label_setname"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+
+            android:text="请输入您的名字:   "
+            android:textSize="22dp"
+            android:textColor="@color/colorBlack"/>
+        <EditText
+            android:id="@+id/inputBox_name"
+            android:background="@drawable/border"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:maxLines="1"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_signupover"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30dp"
+        android:text="确认注册" />
+</LinearLayout>

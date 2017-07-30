@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">prictace_1</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="startlocation">开始定位</string>
+    <string name="stoplocation">停止定位</string>
+    <string name="title_activity_input_community">InputCommunityActivity</string>
+    <string name="title_activity_write_raider">WriteRaiderActivity</string>
+    <string name="lorem_ipsum_short">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+
+    <string name="title_following">Following</string>
+    <string name="toolbar_bio">Bio</string>
+    <string name="toolbar_details">Details</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="tab_1">首页</string>
+    <string name="tab_2">旅行</string>
+    <string name="tab_3">点评</string>
+    <string name="tab_4">我的</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+
+
+</resources>

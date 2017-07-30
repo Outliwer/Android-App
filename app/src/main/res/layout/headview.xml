@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#F0F0F0">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:text="当前定位城市"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_city_name"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="北京"
+            android:layout_marginRight="28dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:background="#32B9AB"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginRight="24dp"
+        android:background="#E0E0E0" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="16dp"
+        android:text="热门城市"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+    <com.example.outlier.prictace_1.HomePage.View.ViewAnswerActivity.view.MyGridView
+        android:id="@+id/gv_hot_city"
+        android:layout_width="match_parent"
+        android:layout_marginRight="4dp"
+        android:numColumns="3"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="16dp"
+        android:text="主要城市"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+</LinearLayout>

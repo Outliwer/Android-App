@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+    <include
+        android:id="@+id/title_item"
+        layout="@layout/fg_4_title"
+        />
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:backgroundTintMode="src_in"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/border"
+
+        >
+
+        <ImageView
+            android:id="@+id/empty_head_icon"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignTop="@+id/title_text_tv"
+            app:srcCompat="@drawable/my" />
+        <TextView
+            android:id="@+id/state_unlogged"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="请进行登录"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"/>
+    </RelativeLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:layout_weight="0.10"
+        android:weightSum="1">
+        <TextView
+            android:id="@+id/label_account"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:text="账 号："
+            android:textSize="20dp"
+            />
+        <EditText
+            android:id="@+id/inputBox_account"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"/>
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:layout_weight="0.10">
+        <TextView
+            android:id="@+id/label_password"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:text="密 码："
+            android:textSize="20dp"
+            />
+
+        <EditText
+            android:id="@+id/inputBox_password"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"/>
+    </LinearLayout>
+
+
+
+    <!--这个按钮是让登陆界面跳转到个人信息界面，也就是登陆成功-->
+    <Button
+        android:id="@+id/btn_to_personinfo"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:text="登陆" />
+
+    <!--这个按钮是让登陆界面跳转到注册界面-->
+    <TextView
+        android:id="@+id/label_to_signup"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15dp"
+        android:textColor="@color/colorRed"
+        android:text="还没有账号？点此注册" />
+</LinearLayout>

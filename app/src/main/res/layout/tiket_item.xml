@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:baselineAligned="false">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="111dp"
+            android:background="@color/color_tab_1"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="42dp"
+                android:layout_toEndOf="@+id/textView14"
+                android:layout_toRightOf="@+id/textView14"
+                android:text="出发地"
+                android:textColor="#000"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textView17"
+                android:layout_alignBottom="@+id/textView17"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginEnd="67dp"
+                android:layout_marginRight="67dp"
+                android:text="终点站"
+                android:textColor="#000"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/textView18"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginStart="18dp"
+                android:text="G102"
+                android:textColor="@color/black"
+                android:textSize="22dp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/textView17"
+                android:layout_alignStart="@+id/textView17"
+                android:layout_below="@+id/textView17"
+                android:layout_marginLeft="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:text="12:00"
+                android:textColor="@color/color_tab_2"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/textView18"
+                android:layout_alignRight="@+id/textView18"
+                android:layout_below="@+id/textView18"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
+                android:text="13:00"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/color_tab_2"
+                android:textSize="18dp" />
+
+
+            <TextView
+                android:id="@+id/sNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20"
+                android:textColor="#696969"
+                android:textSize="18dp" />
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/color_tab_1"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@drawable/border">
+    <!--1. 顶部标题栏-->
+    <include
+        android:id="@+id/show_homepage_title"
+        layout="@layout/homepage_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="vertical"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:background="@drawable/tripcreate" />
+
+            <TextView
+                android:textSize="22sp"
+                android:text="行程名称:"
+                android:textColor="@color/color_tab_2"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+            <EditText
+                android:id="@+id/edit_text_tripname"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="海南三亚行"
+                android:layout_gravity="center"
+                android:maxLines="1"
+                android:textSize="20sp" />
+
+            <RelativeLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:layout_height="36dp"
+                    android:layout_width="36dp"
+                    android:layout_marginLeft = "20dp"
+                    android:background="@drawable/hoteluse_1"
+                    />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginLeft="60dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/color_tab_2"
+                    android:text="出发城市:"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:layout_height="36dp"
+                    android:layout_width="36dp"
+                    android:layout_marginLeft = "200dp"
+                    android:background="@drawable/hoteluse_1"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginLeft="240dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/color_tab_2"
+                    android:text="目的城市:"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:orientation="horizontal"
+                android:paddingLeft="60dp">
+
+                <EditText
+                    android:id="@+id/edit_text_start"
+                    style="@style/Widget.AppCompat.EditText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:gravity="left"
+                    android:text="咸宁"
+                    android:maxLines="1"
+                    android:textSize="25sp" />
+
+                <Button
+                    android:id="@+id/btn_choosecity_start"
+
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toRightOf="@id/edit_text_start"
+                    android:background="@drawable/hotelbutton_03" />
+
+
+                <EditText
+                    android:id="@+id/edit_text_final"
+                    style="@style/Widget.AppCompat.EditText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="140dp"
+                    android:text="武汉"
+                    android:maxLines="1"
+                    android:textSize="25sp" />
+
+                <Button
+                    android:id="@+id/btn_choosecity_final"
+
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginLeft="160dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toRightOf="@id/edit_text_start"
+                    android:background="@drawable/hotelbutton_03" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="42dp"
+                    android:layout_weight="0.96"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:text="开始日期:"
+                    android:textColor="@color/color_tab_2"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="0dp"
+                    android:layout_height="41dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_tab_2"
+                    android:paddingLeft="20dp"
+                    android:text="返回日期:"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/value_start"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:background="@color/color_tab_1"
+                    android:layout_marginTop="6dp"
+                    android:text="____-__-__"
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    android:gravity="center"/>
+
+
+                <Button
+                    android:id="@+id/btn_choosedate_start"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginTop="4dp"
+                    android:background="@drawable/hoteluse_2"
+                    />
+
+                <Button
+                    android:id="@+id/value_final"
+                    android:background="@color/color_tab_1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:layout_marginTop="6dp"
+                    android:text="____-__-__"
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    android:gravity="center"/>
+
+                <Button
+                    android:id="@+id/btn_choosedate_final"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginTop="4dp"
+                    android:background="@drawable/hoteluse_2"
+                    />
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp">
+
+                <ImageView
+                    android:layout_height="36dp"
+                    android:layout_width="36dp"
+                    android:layout_marginLeft = "20dp"
+                    android:background="@drawable/hoteluse_3"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginLeft="60dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/gray"
+                    android:text="备注信息:"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <EditText
+                android:id="@+id/textView5"
+                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:text="创建"
+                android:textColor="@color/color_tab_2"
+                android:background="@color/color_tab_1"
+                 />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

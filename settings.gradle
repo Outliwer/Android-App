@@ -1,0 +1,3 @@
+include ':app', ':IMKit', ':IMLib'
+project(':IMKit').projectDir = new File('Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit')
+project(':IMLib').projectDir = new File('Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib')

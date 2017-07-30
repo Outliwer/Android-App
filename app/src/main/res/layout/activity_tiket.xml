@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_tab_1"
+    android:orientation="vertical">
+    <!--1. 顶部标题栏-->
+    <include
+        android:id="@+id/show_homepage_title"
+        layout="@layout/homepage_title" />
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:background="@drawable/bg_tic" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:textSize="20sp"
+            android:text="出发城市:"
+            android:textColor="@color/color_tab_2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:layout_weight="1" />
+
+
+        <TextView
+            android:textSize="20sp"
+            android:text="目的城市:"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:gravity="center_vertical"
+            android:textColor="@color/color_tab_2"
+            android:paddingLeft="10dp"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+
+
+        <EditText
+            android:id="@+id/edit_text_start"
+            style="@style/Widget.AppCompat.EditText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.68"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:hint="武汉"
+            android:maxLines="1"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/btn_choosecity_start"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/tiketuse_2"
+            />
+
+        <ImageView
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/tiketuse_1"/>
+
+
+        <EditText
+            android:id="@+id/edit_text_final"
+            style="@style/Widget.AppCompat.EditText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.68"
+            android:layout_marginTop="10dp"
+            android:hint="上海"
+            android:maxLines="1"
+            android:textSize="22sp" />
+
+        <Button
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/tiketuse_2"
+            android:id="@+id/btn_choosecity_final"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:text="出发日期："
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/color_tab_2"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="80dp"
+            android:weightSum="1">
+
+
+
+            <Button
+                android:id="@+id/selectTime"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_weight="0.28"
+                android:layout_marginTop="10dp"
+                android:background="@color/color_tab_1"
+                android:gravity="center"
+                android:text="____-__-__"
+                android:textColor="#000"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/tiketuse_3"
+                android:id="@+id/btn_chooseView" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_StartSearchView"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:background="@drawable/rest_35"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

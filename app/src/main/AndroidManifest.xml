@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.outlier.prictace_1">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="4p2o6ltbZibl1MorTwolnlkzPd9N7ELb" />
+        <meta-data
+            android:name="RONG_CLOUD_APP_KEY"
+            android:value="0vnjpoad0eyrz" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+
+        <activity
+            android:name=".GuideActivity"
+           >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondFragment" />
+        <activity android:name=".HomePage.Search.SearchActivity" />
+        <activity android:name=".HomePage.Search.SearchDetailActivity" />
+        <activity android:name=".HomePage.Guide.GuideActivity" />
+        <activity android:name=".HomePage.Hotel.HotelActivity" />
+        <activity android:name=".HomePage.Recommend.RecommendActivity" />
+        <activity android:name=".HomePage.Tiket.TiketActivity" />
+        <activity android:name=".HomePage.Topic.TopicActivity" />
+        <activity android:name=".HomePage.View.ViewActivity" />
+        <activity android:name=".HomePage.View.ViewSearchActivity" />
+        <activity android:name=".HomePage.View.ViewAnswerActivity.ViewAnswerActivity" />
+        <activity android:name=".HomePage.Hotel.HotelSearchActivity" />
+        <activity android:name=".HomePage.Tiket.datetimepicker.DateTimePickerActivity" />
+        <activity android:name=".HomePage.Tiket.TiketSearchActivity" />
+        <activity android:name=".HomePage.Guide.WayGuideActivity" />
+        <activity android:name=".AboutMe.signupActivity" />
+        <activity android:name=".AboutMe.personlogin" />
+        <activity android:name=".AboutMe.mycomment" />
+        <activity android:name=".AboutMe.mystrategy" />
+        <activity
+            android:name=".AboutMe.mycollection"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AboutMe.myphoto" />
+        <activity android:name=".AboutMe.myFriend.mychatwithfriend" />
+        <activity android:name=".AboutMe.myFriend.myfriendinfo" />
+        <activity android:name=".AboutMe.replacemypersoninfo" />
+        <activity android:name=".AboutMe.takephoto" />
+        <activity
+            android:name=".MyTrip.tripLibrary.TheResultActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MyTrip.tripLibrary.DrawerActivity" />
+        <activity
+            android:name=".AboutMe.DrawerActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Comment.SearchCommentActivity" />
+        <activity android:name=".Comment.RaiderA.RaiderActivity" />
+        <activity android:name=".Comment.Search.SearchAnswerActivity" />
+        <activity android:name=".MyTrip.TripActivity" />
+        <activity android:name=".MyTrip.AddTripActivity" />
+        <activity android:name=".Comment.Community.StaggeredGridActivity" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.outlier.prictace_1.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+            <!-- 其中，file_paths用来指定uri的共享路径 -->
+        </provider>
+        <!-- 声明能够兼容老版本的手机 -->
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+        <activity android:name=".HomePage.View.ViewDetailActivity" />
+        <activity
+            android:name=".AboutMe.chat.ConversationListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.example.outlier.prictace_1"
+                    android:pathPrefix="/conversationlist"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutMe.chat.SubConversationListActivtiy"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.example.outlier.prictace_1"
+                    android:pathPrefix="/subconversationlist"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutMe.chat.ConversationActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.example.outlier.prictace_1"
+                    android:pathPrefix="/conversation/"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutMe.chat.HomeActivty"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="com.example.outlier.prictace_1"
+                    android:pathPrefix="/push_message"
+                    android:scheme="rong" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AboutMe.myFriend.AddFriendActivity" />
+        <activity android:name=".AboutMe.PersonalLoginActivity" />
+        <activity android:name=".HomePage.Hotel.model.StringEuclidActivity" />
+        <activity android:name=".AboutMe.myFriend.CreateGroupActivity" />
+        <activity
+            android:name=".AboutMe.myFriend.NotifyActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AboutMe.myFriend.SettingActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AboutMe.myFriend.AboutActivity" />
+        <activity android:name=".AboutMe.myFriend.AddActivity" />
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            ></activity>
+    </application>
+
+</manifest>

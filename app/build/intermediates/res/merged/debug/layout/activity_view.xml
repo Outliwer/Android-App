@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/color_tab_1"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_tab_1"
+        android:orientation="vertical">
+        <!--1. 顶部标题栏-->
+        <include
+            android:id="@+id/show_homepage_title"
+            layout="@layout/homepage_title" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            app:srcCompat="@drawable/cab" />
+
+        <TextView
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:text="景点所在城市:"
+            android:textColor="@color/color_tab_2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:paddingLeft="20dp"
+            android:gravity="center_vertical" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:paddingLeft="40dp"
+            >
+
+            <TextView
+                android:textSize="20sp"
+                android:text="当前 :"
+                android:textColor="@color/color_tab_2"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:paddingLeft="20dp"
+                />
+
+            <EditText
+                android:id="@+id/value"
+                style="@style/Widget.AppCompat.EditText"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:hint="武汉"
+                android:maxLines="1"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:background="@drawable/zz"
+                android:layout_marginLeft="20dp"
+                android:layout_gravity="center"
+                android:id="@+id/btn_chooseView" />
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_StartSearchView"
+            android:layout_width="120dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="40dp"
+            android:background="@drawable/rest_35"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+</ScrollView>

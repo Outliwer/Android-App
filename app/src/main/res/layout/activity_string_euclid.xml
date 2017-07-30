@@ -1,0 +1,142 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/wrapper">
+
+    <FrameLayout
+        android:id="@+id/toolbar_list"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/barshape"
+        >
+
+        <ImageView
+            android:id="@+id/backto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_title_bar_back_normal"
+            android:layout_gravity="left"
+            android:fontFamily="sans-serif-bold"
+            android:layout_marginTop="17dp"
+            android:paddingLeft="30dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="sans-serif-bold"
+            android:text="Result"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_toolbar_title" />
+
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/list_view"
+        android:divider="@drawable/list_divider"
+        android:layout_below="@+id/toolbar_list"
+        android:background="@color/gray"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/list_item" />
+
+    <RelativeLayout
+        android:id="@+id/toolbar_profile"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/gray"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:visibility="invisible">
+
+        <ImageView
+            android:id="@+id/toolbar_profile_back"
+            android:layout_width="@dimen/height_toolbar"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:src="@drawable/ic_arrow_left" />
+
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="33dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/barshape"
+            >
+
+            <TextView
+                style="@style/TextViewProfileToolbarTitle"
+                android:layout_alignParentRight="true"
+                android:text="@string/toolbar_details"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/wrapper_profile_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:visibility="invisible"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/text_view_profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/gray"
+            tools:text="SOPHIA"
+            android:fontFamily="sans-serif-light"
+            android:textSize="32sp"
+            android:layout_margin="10dp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp">
+
+            <TextView
+                android:id="@+id/text_view_profile_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray"
+                tools:text="@string/lorem_ipsum_long"
+                android:fontFamily="sans-serif"
+                android:textSize="18sp" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+    <include
+        layout="@layout/button_round_msg"
+        android:layout_width="90dp"
+        android:layout_height="36dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:visibility="invisible"
+        android:layout_marginTop="250dp"
+        android:id="@+id/button_profile" />
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <com.aurelhubert.ahbottomnavigation.AHBottomNavigation
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            />
+    </android.support.design.widget.CoordinatorLayout>
+
+</RelativeLayout>

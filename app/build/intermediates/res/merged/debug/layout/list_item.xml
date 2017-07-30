@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/wrapper_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@color/gray"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image_view_avatar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:paddingBottom="1dp"
+        tools:src="@drawable/nicolas_cage" />
+    <!--Add 1dp bottom padding to remove weird flickering while animating-->
+
+    <View
+        android:id="@+id/view_avatar_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/text_view_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_view_avatar"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center_horizontal"
+        android:singleLine="true"
+        android:textAllCaps="true"
+        android:textColor="@color/color_tab_2"
+        android:textSize="24sp"
+        tools:text="RICHARD" />
+
+    <TextView
+        android:id="@+id/text_view_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_view_name"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:textStyle="normal"
+        tools:text="@string/lorem_ipsum_short" />
+
+</RelativeLayout>

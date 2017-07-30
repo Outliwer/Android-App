@@ -1,0 +1,689 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:2:1-187:12
+	package
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:9:5-85
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:9:22-82
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:15:5-76
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:16:5-76
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:14:5-79
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:19:5-75
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:18:5-75
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:21:5-81
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:12:5-81
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/outlier/.android/build-cache/b90414598e56f298da9e8a71d5aeba29cd5765ee/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/outlier/.android/build-cache/8d1fd9ed994060b7e42761c8cea695ad8493112d/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/outlier/.android/build-cache/d6687e8ba6c8dd216d94cb65d6e412f1da988d67/output/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/outlier/.android/build-cache/37af73ea584691d9f5b205c07ec9910e7437af9a/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/outlier/.android/build-cache/92f950ba1cd04b9613476d212a0c0a47a489cb18/output/AndroidManifest.xml:29:5-67
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:13:5-67
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:23:22-64
+application
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:25:5-185:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/outlier/.android/build-cache/b90414598e56f298da9e8a71d5aeba29cd5765ee/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/outlier/.android/build-cache/8d1fd9ed994060b7e42761c8cea695ad8493112d/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/outlier/.android/build-cache/d6687e8ba6c8dd216d94cb65d6e412f1da988d67/output/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/outlier/.android/build-cache/37af73ea584691d9f5b205c07ec9910e7437af9a/output/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/outlier/.android/build-cache/92f950ba1cd04b9613476d212a0c0a47a489cb18/output/AndroidManifest.xml:31:5-20
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:33:5-96:19
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:24:5-92:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /Users/outlier/.android/build-cache/40b815e2676a13db841ff58ef9998975c7901c14/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/outlier/.android/build-cache/734f93bde151479070d90a9e9db3d939e42dab41/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /Users/outlier/.android/build-cache/c98db7211ae2cce1ae73cbc8f8f99759bb247f81/output/AndroidManifest.xml:10:5-20
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] /Users/outlier/.android/build-cache/9807e057a0a1c8afa5f8864f34ce8862bd5d4078/output/AndroidManifest.xml:26:5-27:19
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/outlier/.android/build-cache/f01bc83ec46c50e0240289a3522b281816ff294b/output/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/outlier/.android/build-cache/e8038f0db31bbc6722830097fe085b4669522336/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/outlier/.android/build-cache/8bfaf9041efb578905456db455f9f26f2a98fbbf/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/outlier/.android/build-cache/17a3d1179633707255b6624fdfc02c6c37737da3/output/AndroidManifest.xml:9:5-20
+MERGED from [com.leon:lsettingviewlibrary:1.3.0] /Users/outlier/.android/build-cache/73ba250425b73791d960d9121efbb2754c3b9313/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.etsy.android.grid:library:1.0.5] /Users/outlier/.android/build-cache/0811390a95ab5b9309355ea0f9e1500fe84cc4e8/output/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:25.1.1] /Users/outlier/.android/build-cache/d24f30191633dc21e22aee2b674a9d7a8c46a3c0/output/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/outlier/.android/build-cache/3187feeaecc74690bc2fe77f2bac95ec64d239cb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.codbking:PickTime:v1.0.1] /Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/outlier/.android/build-cache/97248f3e0c1f01d2469948a0f98b85ba6016909f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/outlier/.android/build-cache/1a232c68b0b347cc12b601503d9b92dc68ddc0d0/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/outlier/.android/build-cache/f60e7b2da59d6566208ca92bc2c540e9c2c3fda7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/outlier/.android/build-cache/51a14012207dc588e8e9186d33c758cf43b31e52/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/outlier/.android/build-cache/d0c1d38b47bfe4f4d615089855f20773fe2ec099/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/outlier/.android/build-cache/fb0d99710f7063706cb3fadd68640c1c87c73ebd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/outlier/.android/build-cache/f159d4131a63f77ea7956c18d75bb4ab4e469bae/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/outlier/.android/build-cache/0e2b7ded7b2a511cf43580d325462611d68f772a/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:29:9-41
+	android:supportsRtl
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:30:9-35
+	android:allowBackup
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:28:9-38
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:26:9-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:32:9-34:64
+	android:value
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:33:13-52
+meta-data#RONG_CLOUD_APP_KEY
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:35:9-37:45
+	android:value
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:37:13-42
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:36:13-46
+service#com.baidu.location.f
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:39:9-42:41
+	android:enabled
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:41:13-35
+	android:process
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:42:13-38
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:40:13-48
+activity#com.example.outlier.prictace_1.GuideActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:45:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:50:27-74
+activity#com.example.outlier.prictace_1.SecondFragment
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:53:9-52
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:53:19-49
+activity#com.example.outlier.prictace_1.HomePage.Search.SearchActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:54:9-68
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:54:19-65
+activity#com.example.outlier.prictace_1.HomePage.Search.SearchDetailActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:55:9-74
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:55:19-71
+activity#com.example.outlier.prictace_1.HomePage.Guide.GuideActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:56:9-66
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:56:19-63
+activity#com.example.outlier.prictace_1.HomePage.Hotel.HotelActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:57:9-66
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:57:19-63
+activity#com.example.outlier.prictace_1.HomePage.Recommend.RecommendActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:58:9-74
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:58:19-71
+activity#com.example.outlier.prictace_1.HomePage.Tiket.TiketActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:59:9-66
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:59:19-63
+activity#com.example.outlier.prictace_1.HomePage.Topic.TopicActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:60:9-66
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:60:19-63
+activity#com.example.outlier.prictace_1.HomePage.View.ViewActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:61:9-64
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:61:19-61
+activity#com.example.outlier.prictace_1.HomePage.View.ViewSearchActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:62:9-70
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:62:19-67
+activity#com.example.outlier.prictace_1.HomePage.View.ViewAnswerActivity.ViewAnswerActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:63:9-89
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:63:19-86
+activity#com.example.outlier.prictace_1.HomePage.Hotel.HotelSearchActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:64:9-72
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:64:19-69
+activity#com.example.outlier.prictace_1.HomePage.Tiket.datetimepicker.DateTimePickerActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:65:9-90
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:65:19-87
+activity#com.example.outlier.prictace_1.HomePage.Tiket.TiketSearchActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:66:9-72
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:66:19-69
+activity#com.example.outlier.prictace_1.HomePage.Guide.WayGuideActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:67:9-69
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:67:19-66
+activity#com.example.outlier.prictace_1.AboutMe.signupActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:68:9-60
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:68:19-57
+activity#com.example.outlier.prictace_1.AboutMe.personlogin
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:69:9-57
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:69:19-54
+activity#com.example.outlier.prictace_1.AboutMe.mycomment
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:70:9-55
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:70:19-52
+activity#com.example.outlier.prictace_1.AboutMe.mystrategy
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:71:9-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:71:19-53
+activity#com.example.outlier.prictace_1.AboutMe.mycollection
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:72:9-74:59
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:73:13-49
+activity#com.example.outlier.prictace_1.AboutMe.myphoto
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:75:9-53
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:75:19-50
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.mychatwithfriend
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:76:9-71
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:76:19-68
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.myfriendinfo
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:77:9-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:77:19-64
+activity#com.example.outlier.prictace_1.AboutMe.replacemypersoninfo
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:78:9-65
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:78:19-62
+activity#com.example.outlier.prictace_1.AboutMe.takephoto
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:79:9-55
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:79:19-52
+activity#com.example.outlier.prictace_1.MyTrip.tripLibrary.TheResultActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:80:9-83:59
+	android:label
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:82:13-45
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:81:13-65
+activity#com.example.outlier.prictace_1.MyTrip.tripLibrary.DrawerActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:84:9-71
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:84:19-68
+activity#com.example.outlier.prictace_1.AboutMe.DrawerActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:85:9-87:59
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:86:13-51
+activity#com.example.outlier.prictace_1.Comment.SearchCommentActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:88:9-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:88:19-64
+activity#com.example.outlier.prictace_1.Comment.RaiderA.RaiderActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:89:9-68
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:89:19-65
+activity#com.example.outlier.prictace_1.Comment.Search.SearchAnswerActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:90:9-73
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:90:19-70
+activity#com.example.outlier.prictace_1.MyTrip.TripActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:91:9-57
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:91:19-54
+activity#com.example.outlier.prictace_1.MyTrip.AddTripActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:92:9-60
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:92:19-57
+activity#com.example.outlier.prictace_1.Comment.Community.StaggeredGridActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:93:9-77
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:93:19-74
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:95:9-104:20
+	android:authorities
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:97:13-74
+	android:grantUriPermissions
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:99:13-47
+	android:exported
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:96:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:100:13-102:54
+	android:resource
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:102:17-51
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:101:17-67
+activity#com.example.outlier.prictace_1.HomePage.View.ViewDetailActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:108:9-70
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:108:19-67
+activity#com.example.outlier.prictace_1.AboutMe.chat.ConversationListActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:109:9-123:20
+	android:screenOrientation
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:111:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:112:13-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:110:13-66
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:113:13-122:29
+action#android.intent.action.VIEW
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:114:17-69
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:114:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:116:17-76
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:116:27-73
+data
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:118:17-121:45
+	android:host
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:119:21-66
+	android:scheme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:121:21-42
+	android:pathPrefix
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:120:21-59
+activity#com.example.outlier.prictace_1.AboutMe.chat.SubConversationListActivtiy
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:124:9-138:20
+	android:screenOrientation
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:127:13-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:125:13-69
+activity#com.example.outlier.prictace_1.AboutMe.chat.ConversationActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:139:9-153:20
+	android:screenOrientation
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:141:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:142:13-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:140:13-62
+activity#com.example.outlier.prictace_1.AboutMe.chat.HomeActivty
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:154:9-169:20
+	android:screenOrientation
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:157:13-49
+	android:launchMode
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:156:13-44
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:155:13-53
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.AddFriendActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:170:9-72
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:170:19-69
+activity#com.example.outlier.prictace_1.AboutMe.PersonalLoginActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:171:9-67
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:171:19-64
+activity#com.example.outlier.prictace_1.HomePage.Hotel.model.StringEuclidActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:172:9-79
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:172:19-76
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.CreateGroupActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:173:9-74
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:173:19-71
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.NotifyActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:174:9-176:59
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:176:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:175:13-60
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.SettingActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:177:9-179:59
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:179:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:178:13-61
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.AboutActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:180:9-68
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:180:19-65
+activity#com.example.outlier.prictace_1.AboutMe.myFriend.AddActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:181:9-66
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:181:19-63
+activity#com.example.outlier.prictace_1.MainActivity
+ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:182:9-184:25
+	android:theme
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:183:13-56
+	android:name
+		ADDED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:182:19-47
+uses-sdk
+INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.7] /Users/outlier/.android/build-cache/b90414598e56f298da9e8a71d5aeba29cd5765ee/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.4] /Users/outlier/.android/build-cache/8d1fd9ed994060b7e42761c8cea695ad8493112d/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.16] /Users/outlier/.android/build-cache/d6687e8ba6c8dd216d94cb65d6e412f1da988d67/output/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.12] /Users/outlier/.android/build-cache/37af73ea584691d9f5b205c07ec9910e7437af9a/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.16] /Users/outlier/.android/build-cache/92f950ba1cd04b9613476d212a0c0a47a489cb18/output/AndroidManifest.xml:27:5-43
+MERGED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:materialviewpager:1.2.1] /Users/outlier/.android/build-cache/a7a6ab1cfd1a9bc4e5ef52c9e3d8c05591e67f24/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] /Users/outlier/.android/build-cache/40b815e2676a13db841ff58ef9998975c7901c14/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/outlier/.android/build-cache/734f93bde151479070d90a9e9db3d939e42dab41/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /Users/outlier/.android/build-cache/c98db7211ae2cce1ae73cbc8f8f99759bb247f81/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] /Users/outlier/.android/build-cache/9807e057a0a1c8afa5f8864f34ce8862bd5d4078/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.Yalantis:GuillotineMenu-Android:1.2] /Users/outlier/.android/build-cache/f01bc83ec46c50e0240289a3522b281816ff294b/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/outlier/.android/build-cache/e8038f0db31bbc6722830097fe085b4669522336/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.2.0] /Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/outlier/.android/build-cache/d55f92deed60c0b52d3f9c62f36463c44b24c3f8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/outlier/.android/build-cache/8bfaf9041efb578905456db455f9f26f2a98fbbf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/outlier/.android/build-cache/17a3d1179633707255b6624fdfc02c6c37737da3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.1.0] /Users/outlier/.android/build-cache/e26d458522d3d1d95ff5af7eb294544eb565dec4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.leon:lsettingviewlibrary:1.3.0] /Users/outlier/.android/build-cache/73ba250425b73791d960d9121efbb2754c3b9313/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/outlier/.android/build-cache/46ee3d41252622ed240d81977261561e8825ba6b/output/AndroidManifest.xml:7:5-43
+MERGED from [com.etsy.android.grid:library:1.0.5] /Users/outlier/.android/build-cache/0811390a95ab5b9309355ea0f9e1500fe84cc4e8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:percent:25.1.1] /Users/outlier/.android/build-cache/d24f30191633dc21e22aee2b674a9d7a8c46a3c0/output/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/outlier/.android/build-cache/3187feeaecc74690bc2fe77f2bac95ec64d239cb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.codbking:PickTime:v1.0.1] /Users/outlier/.android/build-cache/2aeace290a56a7445070d02e119bb909023e7d6c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/outlier/.android/build-cache/cfb80f1a6c564ec0deb297e84126b8861e7b65b6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/outlier/.android/build-cache/97248f3e0c1f01d2469948a0f98b85ba6016909f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/outlier/.android/build-cache/1a232c68b0b347cc12b601503d9b92dc68ddc0d0/output/AndroidManifest.xml:21:5-43
+MERGED from [cn.bingoogolapple:bga-banner:2.1.7] /Users/outlier/.android/build-cache/249b31de97d080dfb4541f61f798abe3c5f922e8/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.2.0] /Users/outlier/.android/build-cache/f60e7b2da59d6566208ca92bc2c540e9c2c3fda7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/outlier/.android/build-cache/51a14012207dc588e8e9186d33c758cf43b31e52/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/outlier/.android/build-cache/d0c1d38b47bfe4f4d615089855f20773fe2ec099/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/outlier/.android/build-cache/fb0d99710f7063706cb3fadd68640c1c87c73ebd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/outlier/.android/build-cache/f159d4131a63f77ea7956c18d75bb4ab4e469bae/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/outlier/.android/build-cache/0e2b7ded7b2a511cf43580d325462611d68f772a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/outlier/.android/build-cache/ee9cc654b169b010982c5106ab79591782cc3e34/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:11:5-80
+IMPLIED from /Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/AndroidManifest.xml:2:1-187:12 reason: io.rong.imkit requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:21:5-71
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.GET_TASKS
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:22:5-68
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:23:5-68
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:24:5-80
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:24:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:25:5-66
+MERGED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:25:22-63
+uses-permission#android.permission.CAMERA
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:26:22-62
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:27:22-70
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:28:5-85
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:28:22-82
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:30:22-75
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:31:22-73
+activity#io.rong.imkit.plugin.location.AMapLocationActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:34:9-87
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:34:19-84
+activity#io.rong.imkit.plugin.location.AMapPreviewActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:35:9-86
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:35:19-83
+activity#io.rong.imkit.plugin.location.AMapRealTimeActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:36:9-87
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:36:19-84
+activity#io.rong.imkit.plugin.image.PictureSelectorActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:38:13-78
+activity#io.rong.imkit.plugin.image.PicturePreviewActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:41:13-77
+activity#io.rong.imkit.tools.RongWebviewActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:45:9-53:20
+	android:screenOrientation
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:46:13-67
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.webview
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:48:13-52:29
+action#io.rong.imkit.intent.action.webview
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:49:25-75
+activity#io.rong.imkit.widget.provider.TakingPicturesActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:55:13-80
+activity#io.rong.imkit.activity.PicturePagerActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:58:9-66:20
+	android:theme
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:60:13-71
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:59:13-71
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.picturepagerview
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:61:13-65:29
+action#io.rong.imkit.intent.action.picturepagerview
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:62:17-87
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:62:25-84
+activity#io.rong.imkit.mention.MemberMentionedActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:67:9-70:67
+	android:windowSoftInputMode
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:70:13-64
+	android:configChanges
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:69:13-63
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:68:13-73
+activity#io.rong.imkit.activity.FileManagerActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:71:9-79
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:71:19-76
+activity#io.rong.imkit.activity.FileListActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:72:9-76
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:72:19-73
+activity#io.rong.imkit.activity.FilePreviewActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:73:9-79:20
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:73:19-76
+intent-filter#android.intent.category.DEFAULT+io.rong.imkit.intent.action.openfile
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:74:13-78:29
+action#io.rong.imkit.intent.action.openfile
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:75:17-79
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:75:25-76
+activity#io.rong.imkit.activity.CSLeaveMessageActivity
+ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:82:13-63
+	android:name
+		ADDED from [prictace_1 2:IMKit:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMKit/build/intermediates/bundles/default/AndroidManifest.xml:81:13-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:22:22-78
+service#io.rong.imlib.ipc.RongService
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:28:9-31:38
+	android:process
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:29:13-57
+service#io.rong.imlib.ReConnectService
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:32:9-34:39
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:33:13-58
+receiver#io.rong.imlib.ConnectChangeReceiver
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:36:9-38:39
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:37:13-63
+receiver#io.rong.imlib.HeartbeatReceiver
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:39:9-41:38
+	android:process
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:41:13-35
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:40:13-59
+service#io.rong.push.core.PushRegistrationService
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:47:9-50:19
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:48:13-69
+service#io.rong.push.core.MessageHandleService
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:53:9-56:19
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:54:13-66
+service#io.rong.push.PushService
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:59:9-63:19
+	android:process
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:62:13-43
+	android:exported
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:60:13-52
+receiver#io.rong.push.PushReceiver
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:66:9-86:20
+	android:process
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:68:13-43
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:67:13-53
+intent-filter#io.rong.push.intent.action.HEART_BEAT
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:70:13-72:29
+action#io.rong.push.intent.action.HEART_BEAT
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:71:25-77
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:74:13-76:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:75:17-79
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:75:25-76
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:78:13-80:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:79:17-79
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:79:25-76
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.USER_PRESENT
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:81:13-85:29
+action#android.intent.action.USER_PRESENT
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:82:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:83:17-87
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:83:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:84:17-90
+	android:name
+		ADDED from [prictace_1 2:IMLib:unspecified] /Users/outlier/Desktop/AndroidTest/prictace_1 2/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable_36fa5/Rong_Cloud_Android_IMKit_SDK_v2_8_14_Stable/IMLib/build/intermediates/bundles/default/AndroidManifest.xml:84:25-87

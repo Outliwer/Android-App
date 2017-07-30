@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/Users/outlier/Desktop/AndroidTest/prictace_1 2/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 260
+                    }
+                }
+            }
+        ]
+    }
+]

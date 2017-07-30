@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mummyding.app.funnychat.Aty.MainActivity">
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_activity_active"
+        android:orderInCategory="90"
+
+        android:title="添加"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_notify"
+        android:icon="@drawable/ic_text"
+        android:orderInCategory="90"
+        android:title="通知"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/hoteluse_2"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="170dp"
+    android:layout_height="200dp"
+    android:background="@color/color_tab_1"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:layout_centerInParent="true"
+        android:src="@drawable/mouse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mouse"/>
+
+    <RelativeLayout
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:src="@drawable/cat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cat"/>
+
+        <ImageView
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="9dp"
+            android:src="@drawable/eyes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/eye_left"/>
+
+        <com.common.EyelidView
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="9dp"
+            android:src="@drawable/eyes"
+            android:layout_width="6dp"
+            android:layout_height="3.75dp"
+            android:id="@+id/eyelid_left"/>
+
+        <ImageView
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="9dp"
+            android:src="@drawable/eyes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/eye_right"/>
+
+        <com.common.EyelidView
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="9dp"
+            android:src="@drawable/eyes"
+            android:layout_width="6dp"
+            android:layout_height="3.75dp"
+            android:id="@+id/eyelid_right"/>
+    </RelativeLayout>
+</RelativeLayout>
+
